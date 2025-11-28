@@ -1,16 +1,16 @@
 # Data Witches - MAI3003 Medical AI Projects
 
-Welcome to the **Data Witches** organization! We are a team of students working on Medical Artificial Intelligence (MAI3003) projects at Maastricht University. Our work focuses on applying machine learning and AI techniques to healthcare challenges.
+Welcome to the **Data Witches** organization! We are a team of students working on Applying AI in Healthcare (MAI3003) projects at Maastricht University. Our work focuses on applying machine learning and AI techniques to healthcare challenges.
 
 ## 👥 Team Members
 
-| Name | Student ID |
-|------|------------|
-| Claessen, VVHJAE | i6339543 |
-| Ovsiannikova, AM | i6365923 |
-| Pubben, J | i6276134 |
-| Roca Cugat, M | i6351071 |
-| Záboj, J | i6337952 |
+| Name | 
+|------|
+| Claessen, VVHJAE | 
+| Ovsiannikova, AM | 
+| Pubben, J | 
+| Roca Cugat, M | 
+| Záboj, J | 
 
 ---
 
@@ -101,13 +101,7 @@ Our third project develops a medical chatbot specifically designed to assist COP
 
 ## 📖 Course Information
 
-These projects are part of the **MAI3003 - Medical Artificial Intelligence** course at Maastricht University.
-
----
-
-## 📧 Contact
-
-For questions or collaboration opportunities, please reach out to any of the team members listed above through the university channels.
+These projects are part of the **MAI3003 - Applying AI in Healthcare** course at Maastricht University.
 
 ---
 
